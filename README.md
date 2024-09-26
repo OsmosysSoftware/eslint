@@ -12,6 +12,7 @@ This repository will document different technology specific linting configuratio
 - [Node.Js v16 (NestJs v8)](node-nest-eslint.md)
 - [React Native v0.68](react-native-eslint.md)
 - [Swift v5.6](swift-swiftlint.md)
+- [Kotlin v1.6.20](kotlin-ktlint.md)
 
 # TODO
 
@@ -20,6 +21,5 @@ This repository will document different technology specific linting configuratio
 - PHP v8.1 (Laravel v8) - PHAN
 - .NET
 - Python
-- Kotlin
 - React Native
 - Flutter
